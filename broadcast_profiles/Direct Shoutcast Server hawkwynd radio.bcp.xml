@@ -1,0 +1,35 @@
+<!DOCTYPE broadcastprofile>
+<BroadcastProfile>
+    <ProfileName>Direct Shoutcast Server hawkwynd radio</ProfileName>
+    <SecureCredentialsStorage>0</SecureCredentialsStorage>
+    <Enabled>0</Enabled>
+    <Host>35.174.26.109</Host>
+    <Port>8000</Port>
+    <Servertype>Shoutcast</Servertype>
+    <Login>source</Login>
+    <Password>scootre</Password>
+    <EnableReconnect>1</EnableReconnect>
+    <ReconnectPeriod>4</ReconnectPeriod>
+    <LimitReconnects>1</LimitReconnects>
+    <MaximumRetries>10</MaximumRetries>
+    <NoDelayFirstReconnect>1</NoDelayFirstReconnect>
+    <ReconnectFirstDelay>0</ReconnectFirstDelay>
+    <Mountpoint>/stream</Mountpoint>
+    <StreamName>Hawkwynd Radio</StreamName>
+    <StreamDesc>Hawkwynd Radio</StreamDesc>
+    <StreamGenre>Live Mix</StreamGenre>
+    <StreamPublic>1</StreamPublic>
+    <StreamWebsite>http://www.hawkwynd.com</StreamWebsite>
+    <StreamIRC></StreamIRC>
+    <StreamAIM></StreamAIM>
+    <StreamICQ></StreamICQ>
+    <Format>MP3</Format>
+    <Bitrate>128</Bitrate>
+    <Channels>2</Channels>
+    <EnableMetadata>0</EnableMetadata>
+    <MetadataCharset>UTF-8</MetadataCharset>
+    <CustomArtist></CustomArtist>
+    <CustomTitle></CustomTitle>
+    <MetadataFormat>$artist - $title</MetadataFormat>
+    <OggDynamicUpdate>1</OggDynamicUpdate>
+</BroadcastProfile>

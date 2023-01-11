@@ -1,0 +1,35 @@
+<!DOCTYPE broadcastprofile>
+<BroadcastProfile>
+    <ProfileName>Jarvis Connection</ProfileName>
+    <SecureCredentialsStorage>0</SecureCredentialsStorage>
+    <Enabled>1</Enabled>
+    <Host>soapbox</Host>
+    <Port>8080</Port>
+    <Servertype>Icecast2</Servertype>
+    <Login>source</Login>
+    <Password>hackme</Password>
+    <EnableReconnect>1</EnableReconnect>
+    <ReconnectPeriod>9</ReconnectPeriod>
+    <LimitReconnects>1</LimitReconnects>
+    <MaximumRetries>10</MaximumRetries>
+    <NoDelayFirstReconnect>1</NoDelayFirstReconnect>
+    <ReconnectFirstDelay>0</ReconnectFirstDelay>
+    <Mountpoint>/live</Mountpoint>
+    <StreamName></StreamName>
+    <StreamDesc>This stream is online for testing purposes!</StreamDesc>
+    <StreamGenre>Live Mix</StreamGenre>
+    <StreamPublic>1</StreamPublic>
+    <StreamWebsite>https://www.mixxx.org</StreamWebsite>
+    <StreamIRC></StreamIRC>
+    <StreamAIM></StreamAIM>
+    <StreamICQ></StreamICQ>
+    <Format>MP3</Format>
+    <Bitrate>320</Bitrate>
+    <Channels>2</Channels>
+    <EnableMetadata>0</EnableMetadata>
+    <MetadataCharset></MetadataCharset>
+    <CustomArtist></CustomArtist>
+    <CustomTitle></CustomTitle>
+    <MetadataFormat>$artist - $title</MetadataFormat>
+    <OggDynamicUpdate>0</OggDynamicUpdate>
+</BroadcastProfile>

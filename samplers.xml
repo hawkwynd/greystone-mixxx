@@ -1,0 +1,19 @@
+<!DOCTYPE SamplerBank>
+<samplerbank>
+ <sampler group="[Sampler1]" location="/mnt/TB2/Music/intros/friday_night_intro_century.flac"/>
+ <sampler group="[Sampler2]" location="/mnt/TB2/Music/resources/Large-crowd-cheering-and-clapping-sound-effect.mp3"/>
+ <sampler group="[Sampler3]" location="/mnt/TB2/Music/Loops/Bytor-bells-with-tubular-aqua-ping.mp3"/>
+ <sampler group="[Sampler4]" location="/mnt/TB2/Music/resources/yeah-baby.mp3"/>
+ <sampler group="[Sampler5]" location="/mnt/TB2/Music/resources/susan-shout-out.flac"/>
+ <sampler group="[Sampler6]" location="/mnt/TB2/Music/resources/Boxingbellring _one time.mp3"/>
+ <sampler group="[Sampler7]" location="/mnt/TB2/Music/resources/star-trek/star-trek-communicator.flac"/>
+ <sampler group="[Sampler8]" location="/mnt/TB2/Music/resources/Gifted.mp3"/>
+ <sampler group="[Sampler9]" location="/mnt/TB2/Music/resources/Jump-hyperspace.flac"/>
+ <sampler group="[Sampler10]" location="/mnt/TB2/Music/resources/Frameshift-drive-charging-ED.flac"/>
+ <sampler group="[Sampler11]" location="/mnt/TB2/Music/resources/and-were-going-to-have-a-lot-of-fun-tonight.mp3"/>
+ <sampler group="[Sampler12]" location="/mnt/TB2/Music/resources/the-soon-i-get-home-the-first-thing-im-gonna-do-is-punch-your-mama-in-the-mouth.flac"/>
+ <sampler group="[Sampler13]" location="/mnt/TB2/Music/resources/386150-Beer_Bottle_Roll_Concrete.mp3"/>
+ <sampler group="[Sampler14]" location="/mnt/TB2/Music/resources/star-trek/star-trek-door.flac"/>
+ <sampler group="[Sampler15]" location="/mnt/TB2/Music/resources/omg-omg.mp3"/>
+ <sampler group="[Sampler16]" location="/mnt/TB2/Music/one-liners/tubular-bell_A_minor.flac"/>
+</samplerbank>

@@ -1,0 +1,7 @@
+<!DOCTYPE SoundManagerConfig>
+<SoundManagerConfig latency="5" sync_buffers="2" deck_count="4" force_network_clock="0" api="ALSA" samplerate="44100">
+ <SoundDevice name="HDA Intel: ALC888 Analog" alsaHwDevice="hw:0,0" portAudioIndex="0">
+  <input index="0" channel="0" type="Microphone" channel_count="2"/>
+  <output index="0" channel="0" type="Master" channel_count="2"/>
+ </SoundDevice>
+</SoundManagerConfig>
